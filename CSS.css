@@ -1,0 +1,28 @@
+.body-css{
+    background-color: rgb(129, 217, 217);
+}
+
+h1{color: blue; size: 80px; text-align: center;}
+
+h2{color: blue;}
+
+p{font-size: 30px; margin: 10px;}
+
+.card{
+    max-width: 900px;
+    margin: 20px;
+    border: 2px solid #16c1e7;
+    border-radius: 20px;
+    background: linear-gradient(145deg, #4de0e5, #29bfcf);
+    color: rgb(0, 1, 5);
+    text-align: left;
+}
+
+.header{
+    max-width: 900px;
+    margin: 20px;
+    border: 2px solid #16c1e7;
+    background: linear-gradient(145deg, #4de0e5, #29bfcf);
+    color: rgb(9, 103, 175);
+    text-align: center;
+}
